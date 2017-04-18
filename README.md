@@ -14,4 +14,7 @@ Por fim, a linguagem C também foi criada para incentivar a programação multip
 
 # Infuência da linguagem C
 
+A linguagem C tem influenciado, direta ou indiretamente, muitas linguagens desenvolvidas posteriormente, como C++, Java, C# e PHP. Provavelmente a influência mais marcante da linguagem foi a sua sintática: todas as mensionadas combinam a sintaxe de declaração e a sintaxe de expressão da linguagem C com sistemas de tipo, modelos de dados etc.
+
+
 
