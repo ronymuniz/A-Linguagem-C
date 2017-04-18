@@ -8,8 +8,10 @@ Ela foi criada em 1972, nos laboratórios Bell, por Dennis Ritchie, sendo revisa
 
 # C e suas peculiaridades
 
-A linguagem C é uma linguagem procedural, ou seja, ela permite que um problema complexo seja facilmente decomposto em módulos, sendo cada módulo um problema mais simples. Além disso, ela fornece acesso de baixo nível à memória, o que permite o acesso e a programação direta do microprocessador. Ela também permite a implantação de programas utilizando instruções em Assembly, o que possibilita programar problemas em que a dependencia do tempo é crítica. Por fim, a linguagem C também foi criada para incentivar a programação multiplataforma, ou seja, programas escritos em C podem ser compilados para uma grande variedade de plataformas e sistemas operacionais com apenas pequenas alterações em seu código fonte.
+A linguagem C é uma linguagem procedural, ou seja, ela permite que um problema complexo seja facilmente decomposto em módulos, sendo cada módulo um problema mais simples. Além disso, ela fornece acesso de baixo nível à memória, o que permite o acesso e a programação direta do microprocessador. Ela também permite a implantação de programas utilizando instruções em Assembly, o que possibilita programar problemas em que a dependencia do tempo é crítica.
 
-# Infuencia da linguagem C
+Por fim, a linguagem C também foi criada para incentivar a programação multiplataforma, ou seja, programas escritos em C podem ser compilados para uma grande variedade de plataformas e sistemas operacionais com apenas pequenas alterações em seu código fonte.
+
+# Infuência da linguagem C
 
 
