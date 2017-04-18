@@ -1,5 +1,5 @@
 # A linguagem C
-uma breve introdução sobre a linguagem C
+Uma breve introdução sobre a linguagem C
 
 A linguagem C é uma das mais bem sucedidas linguagens de alto nível já criadas e é considerada uma das linguagens de programação mais utilizadas de todos os tempos. Porém, muitas pessoas a consideram uma linguagem de difícil aprendizado.
 Define-se como linguagem de alto nível aquela que possui um nível de abstração relativamente elevado, ou seja, que está mais próximo do entendimento humano do que do código de máquina.
