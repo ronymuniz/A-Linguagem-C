@@ -19,6 +19,8 @@ A linguagem C tem influenciado, direta ou indiretamente, muitas linguagens desen
 # 2.0 Lendo e escrevendo nas variáveis
 
 Toda informação contida dentro de um programa está armazenada na memória do computador. Nossos dados, em particular, estão sempre guardados dentro de uma **variável**.
+Em computação, uma variável é uma posição de memória onde poderemos guardar determinado dado ou valor e modificá-lo ao longo da execução do programa.
+Quando criamos uma variável e armazenamos um valor dentro dela, (por exemplo, **int** x = 10;), o computador reserva um espaço associado a um endereço de memória onde podemos guardar o valor dessa variável.
 
 
 
